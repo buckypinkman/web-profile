@@ -27,7 +27,7 @@
     <div v-else-if="selectedIcon === 'gitSource'">
       <button
         class="border-2 rounded-md p-[0.35rem] svg_border"
-        onclick="window.open('https://github.com/Kuon-dev/kuon-portfolio/tree/main');"
+        onclick="window.open('https://github.com/buckypinkman');"
       >
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"

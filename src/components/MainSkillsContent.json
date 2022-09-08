@@ -11,10 +11,6 @@
                 "image": "devicon-vuejs-plain"
             },
             {
-                "title": "ThreeJS",
-                "image": "devicon-threejs-original"
-            },
-            {
                 "title": "Javascript (ES6)",
                 "image": "devicon-javascript-plain"
             },
@@ -29,6 +25,10 @@
             {
                 "title": "Tailwind",
                 "image": "devicon-tailwindcss-plain"
+            },
+            {
+                "title": "Bootstrap",
+                "image": "devicon-bootstrap-plain"
             }
         ]
     },
@@ -36,20 +36,16 @@
         "type": "backend",
         "technologies": [
             {
-                "title": "Python",
-                "image": "devicon-python-plain"
-            },
-            {
                 "title": "Node",
                 "image": "devicon-nodejs-plain"
             },
             {
-                "title": "Java",
-                "image": "devicon-java-plain"
+                "title": "ExpressJS",
+                "image": "devicon-express-original"
             },
             {
-                "title": "MongoDB",
-                "image": "devicon-mongodb-plain"
+                "title": "PHP",
+                "image": "devicon-php-plain"
             },
             {
                 "title": "Laravel",
@@ -61,20 +57,16 @@
         "type": "tools",
         "technologies": [
             {
-                "title": "Markdown",
-                "image": "devicon-markdown-original"
+                "title": "Docker",
+                "image": "devicon-docker-plain"
             },
             {
-                "title": "Vim",
-                "image": "devicon-vim-plain"
+                "title": "Git",
+                "image": "devicon-git-plain"
             },
             {
-                "title": "Figma",
-                "image": "devicon-figma-plain"
-            },
-            {
-                "title": "Linux (Arch)",
-                "image": "devicon-linux-plain"
+                "title": "VS Code",
+                "image": "devicon-vscode-plain"
             }
         ]
     }

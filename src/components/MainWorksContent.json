@@ -1,26 +1,94 @@
 [
     {
-        "Image": "./assets/images/work1.png",
-        "Title": "Shopify Clone",
-        "Description": "Shopify is a popular E-commerce website that allows the user to setup an online store and sell their products. This project clones the basic functionalities of shopify such as user interface, user authentication functionalities, along with adding products to database ",
-        "Sidenote": "This is Aaron's first project developed in Vue3 and Laravel",
-        "Github": "https://github.com/Kuon-dev/Shopify-Clone",
-        "Tags": ["Vue3", "Laravel", "PHP", "MySQL", "TailwindCSS"]
+        "Image": "./assets/images/vms.png",
+        "Title": "Voyage Management System",
+        "Type": "work",
+        "Description": "Voyage Management System (VMS) is an enterprise app integrated with Microsoft Business Central to help CNB to manage the activity of Cargo Ships",
+        "Sidenote": "This is Rangga's first project developed in Vue and Laravel",
+        "Url": "https://vms.cnb.co.id",
+        "Tags": ["Vue", "Laravel Lumen", "PHP", "MySQL", "Quasar Framework"]
     },
     {
-        "Image": "./assets/images/work2.png",
-        "Title": "Mersing Website with Chatbot",
-        "Description": "Mersing is a tourism spot located in West Malaysia, the purpose of this website is to boost the tourism industry of this location by making a AI Chatbot powered by Microsoft Virtual Agent ",
+        "Image": "./assets/images/sipd.png",
+        "Title": "Sistem Informasi Pembangunan Daerah",
+        "Type": "work",
+        "Description": "Sistem Informasi Pembangunan Daerah is a Geolocation and Analytic app that helps the goverment to keep in track every Regional Development on each province or cities in Indonesia",
         "Sidenote": "",
-        "Github": "https://github.com/Kuon-dev/IaI-project",
-        "Tags": ["Vue3", "TailwindCSS", "Microsoft Virtual Agent", "API"]
+        "Url": "https://profil.sipd.go.id",
+        "Tags": ["Laravel", "Jquery", "Highmaps.js", "MySQL", "PostgreSQL"]
     },
     {
-        "Image": "./assets/images/work3.png",
-        "Title": "Paws Heaven E-commerce Website",
-        "Description": "Paws Heaven is an online E-commerce website developed by a team of 3 developers. Paws Heaven offers a variety of pet products such as food, vitamins and cages ",
+        "Image": "./assets/images/pmp-erp.png",
+        "Title": "Patria ERP System",
+        "Type": "work",
+        "Description": "This is a Complete Enterprise Resource Planning (ERP) System for Patria Maritim Perkasa",
         "Sidenote": "",
-        "Github": "https://github.com/Kuon-dev/WDT-assignment",
-        "Tags": ["PHP", "HTML5", "CSS3", "MYSQL"]
+        "Url": "https://erp.patriashipyard.com",
+        "Tags": ["Vue", "Laravel Lumen", "PHP", "MySQL", "Quasar Framework"]
+    },
+    {
+        "Image": "./assets/images/koas.png",
+        "Title": "Koas Management System",
+        "Type": "work",
+        "Description": "Koas Management System helps Veteran Jakarta University to manage their Faculty of Medical's program called koas like managing Schedules",
+        "Sidenote": "",
+        "Url": "https://koas.robust.web.id",
+        "Tags": ["Laravel", "Jquery", "PHP", "MySQL"]
+    },
+    {
+        "Image": "./assets/images/sentuh-cms.png",
+        "Title": "Sentuh CMS",
+        "Type": "work",
+        "Description": "Sentuh CMS is a Content Management System that helps to manage the contents of all sentuh's Digital Signage around the world",
+        "Sidenote": "",
+        "Url": "http://devsign.sentuhdigital.id",
+        "Tags": ["Laravel", "Jquery", "PHP", "MySQL"]
+    },
+    {
+        "Image": "./assets/images/telkomsel.png",
+        "Title": "Telkomsel Enterprise Landing Page",
+        "Type": "work",
+        "Description": "Telkomsel Enterprise Landing Page helps Telkomsel to advertise their products",
+        "Sidenote": "",
+        "Url": "https://www.telkomsel.com/enterprise",
+        "Tags": ["Html", "Css", "Bootstrap"]
+    },
+    {
+        "Image": "./assets/images/kasir.png",
+        "Title": "Point of Sale",
+        "Type": "work",
+        "Description": "PT.Robust Creative Media's Point of Sale / Cashier solution to help Customer manage their Stores easier",
+        "Sidenote": "",
+        "Url": "https://cashier.robust.web.id",
+        "Tags": ["Laravel", "Jquery", "PHP", "MySQL"]
+    },
+    {
+        "Image": "./assets/images/weebflix.png",
+        "Title": "Weebflix - Anime List",
+        "Type": "personal",
+        "Description": "Weebflix is a simple Web where you can discover your favorite animes",
+        "Sidenote": "API from : <a class='decoration-2 underline' href='https://jikan.moe/'>Jikan Moe</a>",
+        "Url": "https://weebflix.netlify.app",
+        "SourceCode": "https://github.com/buckypinkman/nuxt-weebflix-animelist",
+        "Tags": ["Nuxt", "Vue", "Tailwind"]
+    },
+    {
+        "Image": "./assets/images/kinohub.png",
+        "Title": "Kinohub",
+        "Type": "personal",
+        "Description": "Discover your favorite movies or series with more details here on Kinohub",
+        "Sidenote": "API from : <a class='decoration-2 underline' href='https://developer.imdb.com/'>IMDB Movie API</a>",
+        "SourceCode": "https://github.com/buckypinkman/kinohub-movie-app",
+        "Tags": ["Vue", "Bootstrap"]
+    },
+    {
+        "Image": "./assets/images/quran.png",
+        "Title": "Quran Online",
+        "Type": "personal",
+        "Description": "Read, Listen, & Manage your daily Quran with Quran Online easier",
+        "Sidenote": "API from : <a class='decoration-2 underline' href='https://github.com/gadingnst/quran-api'>Sutanlab Quran APi on Github</a>",
+        "SourceCode": "https://github.com/buckypinkman/quran-online",
+        "Url": "https://kinohub.netlify.app",
+        "Tags": ["Nuxt", "Tailwind"]
     }
 ]

@@ -87,7 +87,7 @@ export default {
 
   .div-center {
     display: flex;
-    align-items: end;
+    align-items: flex-end;
     justify-content: center;
   }
 
